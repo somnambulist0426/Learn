@@ -1,4 +1,1 @@
-wsq
-senky
-this is line 3
-this is line 4
+I delete all cloumns in this file
